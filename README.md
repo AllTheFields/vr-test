@@ -1,20 +1,6 @@
 
-
-# VRTest
-
-
-
 ## Usage
 
+This is a script for detecting broken links on a page, it can be run with the command:
 
-
-## Developing
-
-
-
-### Tools
-
-Created with [Nodeclipse](https://github.com/Nodeclipse/nodeclipse-1)
- ([Eclipse Marketplace](http://marketplace.eclipse.org/content/nodeclipse), [site](http://www.nodeclipse.org))   
-
-Nodeclipse is free open-source project that grows with your contributions.
+node detectBrokenLinks.js <url>
